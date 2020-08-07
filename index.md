@@ -59,7 +59,7 @@ Then I wanted to allow the player to select any two of these and have a class wa
 
 [Back to the top](#posts)
 ### Smash Arena
-So my friends and I often play games in garry's mod, most notably TTT. However I was interested in a game that I couldn't quite find, one that allows the fun pacing of games like quake and other arena based shooters with the accessibility of a game like Super Smash Bros. Seemed like a natural fit to transfer the "Knock enemies to their death" free for all style to a FPS setting. 
+So my friends and I often play games in Garry's Mod, most notably TTT. However I was interested in a game that I couldn't quite find, one that allows the fun pacing of games like quake and other arena based shooters with the accessibility of a game like Super Smash Bros. Seemed like a natural fit to transfer the "Knock enemies to their death" free for all style to a FPS setting. 
 
 So I started designing the game and what a map would look like but the most important thing was the weapons players had. They have to be fun to use and versitile and unoptomized enough to create lasting gameplay. and I eventually settled on four: a bat that knocks enemies flying away, a shotgun that fires physics-enabled skins, a harpoon launcher, and a charging hitscan laser that sends enemies flying based on their vector difference from the shooter. Combined with the crist movement from the source engine, bunnyhopping and physics-based simulation the game is simple but fun and with good movement. Not a lot of a work, but a fun simple project to play with friends.
 Mapmaking is done in Hammer and weapon and gamemode scripting is done in Lua.
