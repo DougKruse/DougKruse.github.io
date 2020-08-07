@@ -1,5 +1,5 @@
 ## Doug's toybox
-This is a place I talk about things
+Blog for games I make
 
 ### Posts
 
