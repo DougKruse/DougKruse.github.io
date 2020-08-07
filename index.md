@@ -66,6 +66,6 @@ Mapmaking is done in Hammer and weapon and gamemode scripting is done in Lua.
 
 ![gmod blog picture](https://i.imgur.com/uTMcJeI.jpg)
 
-Game is available in it's basic state at https://github.com/DougKruse/smasharena/tree/master
+Game is available in it's basic state [here](https://github.com/DougKruse/smasharena/tree/master)
 
 [Back to the top](#posts)
