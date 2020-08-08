@@ -28,7 +28,7 @@ Gear with various combinations of these stats are interesting to a varied basis 
 
 [Back to the top](#posts)
 ### Old Activities
-Recently Google Sites shut down and was going to migrate to some new service and prompted me to save some old site I had from 10th grade english class. Looking over it I found a piece of art I had done back then, I made many pieces like it but lost almost all of them as I got older and transferred computers. I made a lot of art in this electronic abstract style and its really nice to have a copy of some of it back again. 
+Recently Google Sites shut down to migrate to some new service and it prompted me to save some old site that I had made in 10th grade english class. While looking over it I found a piece of art I had done back then; I made many pieces like it but lost almost all of them as I got older and transferred computers. I thought I had lost all traces of them besides a few forum signatures but It was very nice to find this one again.
 ![dougart1](https://i.imgur.com/ZGBghbZ.jpg)
 
 [Back to the top](#posts)
